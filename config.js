@@ -1,6 +1,6 @@
 let fs = require('fs')
 
-global.owner = ['6281351047727'] // Put your number here
+global.owner = ['6285723302803'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json'))
 global.APIs = { // API Prefix
@@ -43,7 +43,7 @@ global.urlnya = "https://www.instagram.com/ilmanhdyt_"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 813-5104-7727'
+global.phn = '+62 857-2330-2803'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
